@@ -12,5 +12,5 @@ Web Technology<br/>
 Machine Learning<br/>
 GCP, AWS<br/>
 </p>
-[![alivia-ansari's GitHub | Languages Over Time](https://stats.quine.sh/alivia-ansari/languages-over-time?theme=light)](https://quine.sh)
+
 [![@aliviaansari's Holopin board](https://holopin.me/aliviaansari)](https://holopin.io/@aliviaansari)
