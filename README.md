@@ -7,6 +7,7 @@
 C/C++, Python, Java<br/>
 HTML, CSS, JavaScript<br/>
 SQL<br/>
+  [![alivia-ansari's GitHub | Languages Over Time](https://stats.quine.sh/alivia-ansari/languages-over-time?theme=light)](https://quine.sh)
 🤹<b>Technologies:</b><br/>
 Web Technology<br/>
 Machine Learning<br/>
