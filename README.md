@@ -4,7 +4,7 @@
   
 <b><h3>👨🏼‍💻My Technical skills</h3></b>
 📜<b>Languages:</b><br/>
-C/C++, Python, Java<br/>
+Python, C/C++<br/>
 HTML, CSS, JavaScript<br/>
 SQL<br/>
 
