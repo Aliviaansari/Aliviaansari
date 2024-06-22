@@ -10,6 +10,7 @@ HTML, CSS, JavaScript<br/>
 🤹<b>Technologies:</b><br/>
 Web Technology<br/>
 Cloud Computing<br/>
+Convolutional Neural Networks (CNNs)<br/>
 </p>
 
 [![@aliviaansari's Holopin board](https://holopin.me/aliviaansari)](https://holopin.io/@aliviaansari)
