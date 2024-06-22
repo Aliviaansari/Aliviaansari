@@ -3,15 +3,13 @@
 <p>
   
 <b><h3>👨🏼‍💻My Technical skills</h3></b>
-📜<b>Languages:</b><br/>
-Python, C/C++<br/>
+📜Python, SQL<br/>
 HTML, CSS, JavaScript<br/>
-SQL<br/>
+<br/>
 
 🤹<b>Technologies:</b><br/>
 Web Technology<br/>
-Machine Learning<br/>
-GCP, AWS<br/>
+Cloud Computing<br/>
 </p>
 
 [![@aliviaansari's Holopin board](https://holopin.me/aliviaansari)](https://holopin.io/@aliviaansari)
